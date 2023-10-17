@@ -19,3 +19,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=spider2048&show_icons=true&locale=en&layout=compact" alt="spider2048" /></p>
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spider2048)](https://github.com/anuraghazra/github-readme-stats)
